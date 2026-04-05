@@ -55,3 +55,4 @@
 
 - README에 주차별 목차와 코드·노트북 상대 경로 링크 추가
 - Week 4 CheckpointManager 예제 필기 마크다운(`01…keras.md`) README에서 링크
+- `.cursor/rules/git-readme-push.mdc`: 변경 후 커밋 컨벤션·README 반영·`git push` 를 에이전트가 수행하도록 프로젝트 규칙 추가
