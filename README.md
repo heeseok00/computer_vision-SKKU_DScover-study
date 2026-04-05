@@ -35,7 +35,7 @@
 
 - CNN + `tf.train.CheckpointManager`를 이용한 MNIST 분류 ([TF v2 Keras Code](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.py)) ([필기 노트](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.md))
 - CNN + TensorBoard 로깅 ([TF v2 Keras Code](DScover_CV_4주차_CNN/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.py.py))
-- TensorFlow GPU 인식 및 간단 연산 테스트 ([Script](gpu_setting.py))
+- TensorFlow GPU 확인 스크립트 `gpu_setting.py`는 **로컬 전용** (`.gitignore`로 제외)
 
 ---
 
@@ -53,6 +53,7 @@
 
 ### 2026-04-05
 
+- `.gitignore`에 `*.pdf`, `.cursor/rules/`, `gpu_setting.py` 추가 및 기존 추적 해제
 - README에 주차별 목차와 코드·노트북 상대 경로 링크 추가
 - Week 4 CheckpointManager 예제 필기 마크다운(`01…keras.md`) README에서 링크
-- `.cursor/rules/git-readme-push.mdc`: 변경 후 커밋 컨벤션·README 반영·`git push` 를 에이전트가 수행하도록 프로젝트 규칙 추가
+- Cursor 에이전트용 규칙(`.cursor/rules/`)은 **로컬 전용**으로 두고 Git에는 포함하지 않음

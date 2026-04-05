@@ -1,0 +1,8 @@
+# 로컬·개인 설정 (원격 저장소에 올리지 않음)
+.cursor/rules/
+
+# GPU 테스트 스크립트 (로컬 환경용)
+gpu_setting.py
+
+# PDF 자료
+*.pdf
