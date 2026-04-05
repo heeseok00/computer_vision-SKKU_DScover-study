@@ -1,6 +1,6 @@
 # SKKU DScover — 컴퓨터 비전 정규 스터디
 
-텐서플로우와 딥러닝 기초, CV 예제를 **주차별**로 정리한 저장소입니다. 각 항목은 예제 코드·노트북으로 바로 이동할 수 있도록 링크를 붙였습니다.
+텐서플로우와 딥러닝 기초, CV 예제를 **주차별**로 정리한 저장소입니다. 각 항목은 예제 코드·노트북·**필기 마크다운**으로 바로 이동할 수 있도록 링크를 붙였습니다.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-- CNN + `tf.train.CheckpointManager`를 이용한 MNIST 분류 ([TF v2 Keras Code](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.py))
+- CNN + `tf.train.CheckpointManager`를 이용한 MNIST 분류 ([TF v2 Keras Code](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.py)) ([필기 노트](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.md))
 - CNN + TensorBoard 로깅 ([TF v2 Keras Code](DScover_CV_4주차_CNN/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.py.py))
 - TensorFlow GPU 인식 및 간단 연산 테스트 ([Script](gpu_setting.py))
 
@@ -54,3 +54,4 @@
 ### 2026-04-05
 
 - README에 주차별 목차와 코드·노트북 상대 경로 링크 추가
+- Week 4 CheckpointManager 예제 필기 마크다운(`01…keras.md`) README에서 링크
