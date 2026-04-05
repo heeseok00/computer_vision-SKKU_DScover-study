@@ -65,6 +65,7 @@
 - Week 4 Fine-Tuning·전이학습 필기(`05.finetuning_transfer_learning.md`) 및 `images/finetuning/` 슬라이드 추가
 - Week 4 TF2.0 구현 두 가지 방법 필기(`06.tensorflow2_high_level_low_level.md`) 및 `images/tf2_impl/` 슬라이드 추가
 - Week 4 `applications`·Dogs vs Cats 필기(`07.tf_keras_applications_pretrained.md`) 및 `images/tf_keras_pretrained/` 슬라이드 추가
+- `07` 필기에 VGG Fine-Tuning 2단계·Colab·TF 튜토리얼·슬라이드 `04_vgg_finetuning_dogs_cats.png` 보강
 - README에 주차별 목차와 코드·노트북 상대 경로 링크 추가
 - Week 4 CheckpointManager 예제 필기 마크다운(`01…keras.md`) README에서 링크
 - Cursor 에이전트용 규칙(`.cursor/rules/`)은 **로컬 전용**으로 두고 Git에는 포함하지 않음
