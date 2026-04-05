@@ -60,6 +60,7 @@
 ### 2026-04-06
 
 - Week 4 Keras Callbacks 필기(`08.keras_callbacks.md`) 및 `images/keras_callbacks/` 슬라이드 9장 추가, README 목차 링크
+- Week 4 `01` CheckpointManager 필기에 강의 슬라이드 3장 반영 및 `images/checkpoint_manager/` 추가
 
 ### 2026-04-05
 
