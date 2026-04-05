@@ -33,14 +33,14 @@
 
 ---
 
-- CNN + `tf.train.CheckpointManager`를 이용한 MNIST 분류 ([TF v2 Keras Code](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.py)) ([필기 노트](DScover_CV_4주차_CNN/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.md))
-- CNN + TensorBoard 로깅 ([TF v2 Keras Code](DScover_CV_4주차_CNN/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.py.py)) ([필기 노트](DScover_CV_4주차_CNN/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.md))
-- ResNet (ILSVRC, degradation, residual block, ImageNet·CIFAR 실험 요약) ([필기 노트](DScover_CV_4주차_CNN/03.resnet.md))
-- EfficientNet (compound scaling, B0–B7, 논문·실험 요약) ([필기 노트](DScover_CV_4주차_CNN/04.efficientnet.md))
-- Fine-Tuning · Transfer Learning (헤드 교체, 동결 범위, 데이터 규모·유사도) ([필기 노트](DScover_CV_4주차_CNN/05.finetuning_transfer_learning.md))
-- TensorFlow 2.0 — high-level(`fit`) vs low-level(GradientTape) ([필기 노트](DScover_CV_4주차_CNN/06.tensorflow2_high_level_low_level.md))
-- `tf.keras.applications` 사전 학습 모델 표 · Dogs vs Cats ([필기 노트](DScover_CV_4주차_CNN/07.tf_keras_applications_pretrained.md)) ([VGG16 파인튜닝 Notebook](DScover_CV_4주차_CNN/07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb))
-- Keras Callbacks (`ModelCheckpoint`, `TensorBoard`, `EarlyStopping` 등) ([필기 노트](DScover_CV_4주차_CNN/08.keras_callbacks.md)) ([MNIST+ANN+Callbacks Notebook](DScover_CV_4주차_CNN/08.mnist_ann_keras_callbacks.ipynb))
+- CNN + `tf.train.CheckpointManager`를 이용한 MNIST 분류 ([TF v2 Keras Code](DScover_CV_4주차/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.py)) ([필기 노트](DScover_CV_4주차/01.mnist_classification_using_cnn_with_tfsaver_v2_keras.md))
+- CNN + TensorBoard 로깅 ([TF v2 Keras Code](DScover_CV_4주차/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.py.py)) ([필기 노트](DScover_CV_4주차/02.mnist_classification_using_cnn_v2_keras_with_tensorboard.md))
+- ResNet (ILSVRC, degradation, residual block, ImageNet·CIFAR 실험 요약) ([필기 노트](DScover_CV_4주차/03.resnet.md))
+- EfficientNet (compound scaling, B0–B7, 논문·실험 요약) ([필기 노트](DScover_CV_4주차/04.efficientnet.md))
+- Fine-Tuning · Transfer Learning (헤드 교체, 동결 범위, 데이터 규모·유사도) ([필기 노트](DScover_CV_4주차/05.finetuning_transfer_learning.md))
+- TensorFlow 2.0 — high-level(`fit`) vs low-level(GradientTape) ([필기 노트](DScover_CV_4주차/06.tensorflow2_high_level_low_level.md))
+- `tf.keras.applications` 사전 학습 모델 표 · Dogs vs Cats ([필기 노트](DScover_CV_4주차/07.tf_keras_applications_pretrained.md)) ([VGG16 파인튜닝 Notebook](DScover_CV_4주차/07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb))
+- Keras Callbacks (`ModelCheckpoint`, `TensorBoard`, `EarlyStopping` 등) ([필기 노트](DScover_CV_4주차/08.keras_callbacks.md)) ([MNIST+ANN+Callbacks Notebook](DScover_CV_4주차/08.mnist_ann_keras_callbacks.ipynb))
 - TensorFlow GPU 확인 스크립트 `gpu_setting.py`는 **로컬 전용** (`.gitignore`로 제외)
 
 ---
@@ -59,6 +59,7 @@
 
 ### 2026-04-06
 
+- Week 4 자료 경로를 `DScover_CV_4주차_CNN/`에서 `DScover_CV_4주차/`로 정리하고 README 목차 링크를 갱신
 - Week 4 Keras Callbacks 필기(`08.keras_callbacks.md`) 및 `images/keras_callbacks/` 슬라이드 9장 추가, README 목차 링크
 - Week 4 `01` CheckpointManager 필기에 강의 슬라이드 3장 반영 및 `images/checkpoint_manager/` 추가
 - Week 4 `02` TensorBoard 필기에 강의 슬라이드 5장 반영 및 `images/tensorboard_lecture/` 추가
