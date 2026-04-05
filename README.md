@@ -39,7 +39,7 @@
 - EfficientNet (compound scaling, B0–B7, 논문·실험 요약) ([필기 노트](DScover_CV_4주차_CNN/04.efficientnet.md))
 - Fine-Tuning · Transfer Learning (헤드 교체, 동결 범위, 데이터 규모·유사도) ([필기 노트](DScover_CV_4주차_CNN/05.finetuning_transfer_learning.md))
 - TensorFlow 2.0 — high-level(`fit`) vs low-level(GradientTape) ([필기 노트](DScover_CV_4주차_CNN/06.tensorflow2_high_level_low_level.md))
-- `tf.keras.applications` 사전 학습 모델 표 · Dogs vs Cats ([필기 노트](DScover_CV_4주차_CNN/07.tf_keras_applications_pretrained.md))
+- `tf.keras.applications` 사전 학습 모델 표 · Dogs vs Cats ([필기 노트](DScover_CV_4주차_CNN/07.tf_keras_applications_pretrained.md)) ([VGG16 파인튜닝 Notebook](DScover_CV_4주차_CNN/07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb))
 - Keras Callbacks (`ModelCheckpoint`, `TensorBoard`, `EarlyStopping` 등) ([필기 노트](DScover_CV_4주차_CNN/08.keras_callbacks.md))
 - TensorFlow GPU 확인 스크립트 `gpu_setting.py`는 **로컬 전용** (`.gitignore`로 제외)
 
@@ -62,6 +62,7 @@
 - Week 4 Keras Callbacks 필기(`08.keras_callbacks.md`) 및 `images/keras_callbacks/` 슬라이드 9장 추가, README 목차 링크
 - Week 4 `01` CheckpointManager 필기에 강의 슬라이드 3장 반영 및 `images/checkpoint_manager/` 추가
 - Week 4 `02` TensorBoard 필기에 강의 슬라이드 5장 반영 및 `images/tensorboard_lecture/` 추가
+- Week 4 VGG16·cats_vs_dogs 노트북(`07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb`) 상단에 전체 흐름 마크다운 추가, README에 노트북 링크
 
 ### 2026-04-05
 
