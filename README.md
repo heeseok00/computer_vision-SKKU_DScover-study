@@ -16,7 +16,7 @@
 
 ---
 
-- 선형 회귀 알고리즘 실습 ([Notebook](DScover_CV_2주차/linear_regression.ipynb))
+- 선형 회귀 알고리즘 실습 ([Notebook](DScover_CV_2주차/01.linear_regression.ipynb)) ([필기 노트](DScover_CV_2주차/01.linear_regression.md))
 
 ---
 
@@ -59,6 +59,7 @@
 
 ### 2026-04-06
 
+- Week 2 선형 회귀 필기(`01.linear_regression.md`) 추가, 머신러닝 3단계(가설·손실함수·옵티마이저/경사하강) 설명 및 이미지 2장 반영
 - Week 4 자료 경로를 `DScover_CV_4주차_CNN/`에서 `DScover_CV_4주차/`로 정리하고 README 목차 링크를 갱신
 - Week 4 Keras Callbacks 필기(`08.keras_callbacks.md`) 및 `images/keras_callbacks/` 슬라이드 9장 추가, README 목차 링크
 - Week 4 `01` CheckpointManager 필기에 강의 슬라이드 3장 반영 및 `images/checkpoint_manager/` 추가
