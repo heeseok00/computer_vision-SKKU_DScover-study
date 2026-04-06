@@ -6,3 +6,6 @@ gpu_setting.py
 
 # PDF 자료
 *.pdf
+
+# 개인 연습 노트북
+test.ipynb
