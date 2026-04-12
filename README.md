@@ -49,7 +49,8 @@
 
 ---
 
-- 딥러닝 학습 5단계, 실무 프로젝트 절차, Papers with Code·SOTA, 실전 역량, CRAFT·번호판 Fine-Tuning/Annotation 포맷, 실습 환경 구성 예시 ([필기 노트](DScover_CV_5주차/01.deep_learning_practice_roadmap.md))
+- 딥러닝 학습 5단계, 실무 프로젝트 절차, Papers with Code·SOTA, 실전 필요 역량 ([필기 노트](DScover_CV_5주차/01.deep_learning_practice_roadmap.md))
+- 실전 프로젝트 실습 1 — License Plate + CRAFT (데이터셋·annotation 포맷·실습 환경·TF2 구현 참고) ([필기 노트](DScover_CV_5주차/02.license_plate_craft_practice.md))
 
 ---
 
@@ -64,6 +65,10 @@
 ## Revision History
 
 ---
+
+### 2026-04-12
+
+- Week 5 `01.deep_learning_practice_roadmap.md`에서 실전 프로젝트 실습 1(번호판+CRAFT) 파트를 분리해 `02.license_plate_craft_practice.md`로 이관하고, 관련 슬라이드 `09_tf2_craft_implementation.png` 및 구현 레퍼런스 링크를 추가
 
 ### 2026-04-06
 
