@@ -49,7 +49,7 @@
 
 ---
 
-- 딥러닝 학습 5단계, 실무 프로젝트 절차, Papers with Code·SOTA, 실전 역량, CRAFT·번호판 Fine-Tuning 예시 ([필기 노트](DScover_CV_5주차/01.deep_learning_practice_roadmap.md))
+- 딥러닝 학습 5단계, 실무 프로젝트 절차, Papers with Code·SOTA, 실전 역량, CRAFT·번호판 Fine-Tuning/Annotation 포맷 예시 ([필기 노트](DScover_CV_5주차/01.deep_learning_practice_roadmap.md))
 
 ---
 
@@ -75,6 +75,7 @@
 - Week 4 VGG16·cats_vs_dogs 노트북(`07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb`) 상단에 전체 흐름 마크다운 추가, README에 노트북 링크
 - Week 4 MNIST·ANN·Keras Callbacks 실습 노트북(`08.mnist_ann_keras_callbacks.ipynb`) 추가, README `08` 항목에 링크
 - 실전·연구 로드맵 필기 저장 위치를 주차 폴더 규칙에 맞게 `DScover_CV_5주차/`로 통일(`DScover_DL_practice_guide/` → `git mv`), README를 `Week 5` 목차·링크로 갱신(폴더명은 `DScover_CV_5주차` 유지, 내부는 `01.*`·`images/0N_*.png` 명명)
+- Week 5 `01.deep_learning_practice_roadmap.md`에 License Plate annotation 포맷 슬라이드(`07_license_plate_annotation_format.png`)와 좌표/라벨 해석(E-3) 추가
 
 ### 2026-04-05
 
