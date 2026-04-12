@@ -86,6 +86,7 @@
 - Week 4 `applications`·Dogs vs Cats 필기(`07.tf_keras_applications_pretrained.md`) 및 `images/tf_keras_pretrained/` 슬라이드 추가
 - `07` 필기에 VGG Fine-Tuning 2단계·Colab·TF 튜토리얼·슬라이드 `04_vgg_finetuning_dogs_cats.png` 보강
 - `DScover_DL_practice_guide/01.deep_learning_practice_roadmap.md` 실전·연구 로드맵 교안 필기 및 `images/` 슬라이드 추가
+- 동일 `01` 필기에 CRAFT·License Plate Dataset 실습(Part E) 및 슬라이드 2장 보강
 - README에 주차별 목차와 코드·노트북 상대 경로 링크 추가
 - Week 4 CheckpointManager 예제 필기 마크다운(`01…keras.md`) README에서 링크
 - Cursor 에이전트용 규칙(`.cursor/rules/`)은 **로컬 전용**으로 두고 Git에는 포함하지 않음
