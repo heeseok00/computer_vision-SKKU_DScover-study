@@ -58,7 +58,8 @@
 
 ---
 
-- Object Detector 분류(One/Two-stage), R-CNN → Fast R-CNN → **Faster R-CNN** 전체 흐름 (RoI Pooling·Multi-task Loss·RPN·Anchor·성능 비교·장단점) ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
+- Object Detector 분류(One/Two-stage), R-CNN → Fast R-CNN → Faster R-CNN 전체 흐름 (RoI Pooling·Multi-task Loss·RPN·Anchor·성능 비교·장단점) ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
+- **YOLO** 기본 컨셉·Grid Cell·출력 텐서 해부 (x,y,w,h,conf·class score·NMS), One-stage vs Two-stage 비교 ([필기 노트](DScover_CV_7주차/02.yolo_nms.md))
 
 ---
 
@@ -73,6 +74,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-10 (3)
+
+- Week 7 `02.yolo_nms.md` 추가 — YOLO 기본 컨셉(Grid Cell·출력 텐서 구조), 출력값(x,y,w,h,confidence,class score) 상세 설명, 추론 흐름 단계별 분해, NMS 알고리즘, IoU 개념, One-stage vs Two-stage 비교, 슬라이드 13장 반영
 
 ### 2026-05-10 (2)
 
