@@ -75,6 +75,10 @@
 
 ---
 
+### 2026-05-10 (4)
+
+- Week 7 `01.object_detection_rcnn.md` 전면 재작성 — R-CNN/Fast R-CNN/Faster R-CNN 전체를 초보자 친화적 상세 설명으로 보강 (Why 설명, 수식 기호별 해설, 직관적 비유, 단계별 파이프라인 다이어그램, 핵심 용어 정리 테이블)
+
 ### 2026-05-10 (3)
 
 - Week 7 `02.yolo_nms.md` 추가 — YOLO 기본 컨셉(Grid Cell·출력 텐서 구조), 출력값(x,y,w,h,confidence,class score) 상세 설명, 추론 흐름 단계별 분해, NMS 알고리즘, IoU 개념, One-stage vs Two-stage 비교, 슬라이드 13장 반영
