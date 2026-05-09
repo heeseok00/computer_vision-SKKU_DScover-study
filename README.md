@@ -62,6 +62,7 @@
 - **YOLO** 기본 컨셉·Grid Cell·출력 텐서 해부 (x,y,w,h,conf·class score·NMS), One-stage vs Two-stage 비교 ([필기 노트](DScover_CV_7주차/02.yolo_nms.md))
 - **SSD** (Single Shot MultiBox Detector) — Multi-scale Feature Map·Default Box·Matching Strategy·Loss(Loc+Conf)·Hard Negative Mining·Ablation Study·속도/성능 비교 ([필기 노트](DScover_CV_7주차/03.ssd.md))
 - **RetinaNet** — Class Imbalance 문제 분석, Focal Loss 유도(CE→α-balanced CE→FL→α-balanced FL), FPN 아키텍처, Classification/BBox Subnet, COCO 성능 비교 ([필기 노트](DScover_CV_7주차/04.retinanet.md))
+- **CenterNet** (Objects as Points) — Anchor-free 핵심 아이디어, Anchor-based와 3가지 차이(할당 기준·anchor 수·output stride), Keypoint/Offset/Size Loss, 2D/3D/Pose 확장, Backbone별 속도-정확도 분석 ([필기 노트](DScover_CV_7주차/05.centernet.md))
 
 ---
 
@@ -76,6 +77,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-10 (8)
+
+- Week 7 `05.centernet.md` 추가 — CenterNet(Objects as Points) 상세 필기: Anchor-free 개념, 기존 OD 3가지 문제점, Objects as Points 아이디어, Anchor-based vs Center Point 비교(Figure 3 분석), 3가지 핵심 차이(할당 기준·anchor 수·output stride), 2D/3D/Pose 확장, Keypoint/Offset/Size Loss 수식 기호별 해설, Training 설정, COCO 성능표·Backbone별 Trade-off, 시각화 결과, 의의, 슬라이드 21장 반영
 
 ### 2026-05-10 (7)
 
