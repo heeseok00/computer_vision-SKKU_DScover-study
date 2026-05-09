@@ -54,6 +54,14 @@
 
 ---
 
+## Week 7 — Object Detection & R-CNN
+
+---
+
+- Object Detector 분류(One/Two-stage), R-CNN 구조·추론·학습·성능·장단점, Selective Search, BBox Regression ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
+
+---
+
 ## Appendix
 
 ---
@@ -65,6 +73,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-09 (2)
+
+- Week 7 `01.object_detection_rcnn.md` 추가 — Object Detection 분류, R-CNN 구조·학습·성능·장단점, 슬라이드 17장 반영 및 사용자 필기 병합
 
 ### 2026-05-09
 
