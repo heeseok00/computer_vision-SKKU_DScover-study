@@ -61,6 +61,7 @@
 - Object Detector 분류(One/Two-stage), R-CNN → Fast R-CNN → Faster R-CNN 전체 흐름 (RoI Pooling·Multi-task Loss·RPN·Anchor·성능 비교·장단점) ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
 - **YOLO** 기본 컨셉·Grid Cell·출력 텐서 해부 (x,y,w,h,conf·class score·NMS), One-stage vs Two-stage 비교 ([필기 노트](DScover_CV_7주차/02.yolo_nms.md))
 - **SSD** (Single Shot MultiBox Detector) — Multi-scale Feature Map·Default Box·Matching Strategy·Loss(Loc+Conf)·Hard Negative Mining·Ablation Study·속도/성능 비교 ([필기 노트](DScover_CV_7주차/03.ssd.md))
+- **RetinaNet** — Class Imbalance 문제 분석, Focal Loss 유도(CE→α-balanced CE→FL→α-balanced FL), FPN 아키텍처, Classification/BBox Subnet, COCO 성능 비교 ([필기 노트](DScover_CV_7주차/04.retinanet.md))
 
 ---
 
@@ -75,6 +76,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-10 (7)
+
+- Week 7 `04.retinanet.md` 추가 — RetinaNet & Focal Loss 상세 필기: Class Imbalance 문제 원인 분석, CE→α-balanced CE→Focal Loss→α-balanced FL 단계별 유도, γ 수치 예시(pt=0.9→100배 감소), FPN+Classification/BBox Subnet 아키텍처, COCO 속도-정확도 그래프, 2017 SOTA 성능표, 장단점, 슬라이드 14장 반영
 
 ### 2026-05-10 (6)
 
