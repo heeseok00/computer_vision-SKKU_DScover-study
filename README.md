@@ -58,7 +58,7 @@
 
 ---
 
-- Object Detector 분류(One/Two-stage), R-CNN 구조·추론·학습·성능·장단점, Selective Search, BBox Regression ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
+- Object Detector 분류(One/Two-stage), R-CNN 구조·추론·학습·성능·장단점, Selective Search, BBox Regression, **Fast R-CNN** (RoI Pooling·Multi-task Loss·성능 비교) ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
 
 ---
 
@@ -73,6 +73,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-10
+
+- Week 7 `01.object_detection_rcnn.md`에 Fast R-CNN 파트(Part L) 추가 — Slow R-CNN 문제점, RoI Pooling, Multi-task Loss, Mini-batch 구성, 성능 비교표, Fast R-CNN 장단점, 슬라이드 10장 반영
 
 ### 2026-05-09 (2)
 
