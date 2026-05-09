@@ -60,6 +60,7 @@
 
 - Object Detector 분류(One/Two-stage), R-CNN → Fast R-CNN → Faster R-CNN 전체 흐름 (RoI Pooling·Multi-task Loss·RPN·Anchor·성능 비교·장단점) ([필기 노트](DScover_CV_7주차/01.object_detection_rcnn.md))
 - **YOLO** 기본 컨셉·Grid Cell·출력 텐서 해부 (x,y,w,h,conf·class score·NMS), One-stage vs Two-stage 비교 ([필기 노트](DScover_CV_7주차/02.yolo_nms.md))
+- **SSD** (Single Shot MultiBox Detector) — Multi-scale Feature Map·Default Box·Matching Strategy·Loss(Loc+Conf)·Hard Negative Mining·Ablation Study·속도/성능 비교 ([필기 노트](DScover_CV_7주차/03.ssd.md))
 
 ---
 
@@ -74,6 +75,10 @@
 ## Revision History
 
 ---
+
+### 2026-05-10 (6)
+
+- Week 7 `03.ssd.md` 추가 — SSD(Single Shot MultiBox Detector) 상세 필기: One-stage vs Two-stage 비교, Multi-scale Feature Map, Default Box 생성·Scale·Aspect Ratio 공식, Matching Strategy, Loss(Localization+Confidence), Hard Negative Mining, Data Augmentation, Ablation Study, COCO 시각화, PASCAL VOC·속도 성능표, 장단점, 슬라이드 20장 반영
 
 ### 2026-05-10 (5)
 
