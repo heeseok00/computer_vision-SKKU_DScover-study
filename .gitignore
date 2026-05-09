@@ -12,3 +12,6 @@ test.ipynb
 
 # 실습 데이터셋 (용량 큼 - 로컬 전용)
 license_plate_detection_data/
+
+# 제출용 자료 폴더 (로컬 전용)
+CV_스터디_제출용/
