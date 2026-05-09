@@ -50,7 +50,7 @@
 ---
 
 - 딥러닝 학습 5단계, 실무 프로젝트 절차, Papers with Code·SOTA, 실전 필요 역량 ([필기 노트](DScover_CV_5주차/01.deep_learning_practice_roadmap.md))
-- 실전 프로젝트 실습 1 — License Plate + CRAFT (데이터셋·annotation 포맷·실습 환경·TF2 구현 참고) ([필기 노트](DScover_CV_5주차/02.license_plate_craft_practice.md))
+- 실전 프로젝트 실습 1 — License Plate + CRAFT (데이터셋·annotation 포맷·실습 환경·TF2 구현 참고) ([필기 노트](DScover_CV_5주차/02.license_plate_craft_practice.md)) ([Notebook](DScover_CV_5주차/02.CRAFT.ipynb))
 
 ---
 
@@ -65,6 +65,12 @@
 ## Revision History
 
 ---
+
+### 2026-05-09
+
+- Week 5 `02.CRAFT.ipynb` 노트북을 루트에서 `DScover_CV_5주차/`로 이동, README에 Notebook 링크 추가
+- `license_plate_detection_data/`(28MB 원본 데이터) `.gitignore`에 추가하여 로컬 전용으로 유지
+- 루트에 있던 `07.pre_trained_vggnet_cats_vs_dogs_dataset_finetuning.ipynb` 중복본 삭제 (`DScover_CV_4주차/`에 원본 있음)
 
 ### 2026-04-12
 

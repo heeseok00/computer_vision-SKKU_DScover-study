@@ -9,3 +9,6 @@ gpu_setting.py
 
 # 개인 연습 노트북
 test.ipynb
+
+# 실습 데이터셋 (용량 큼 - 로컬 전용)
+license_plate_detection_data/
