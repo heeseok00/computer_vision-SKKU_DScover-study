@@ -75,6 +75,10 @@
 
 ---
 
+### 2026-05-10 (5)
+
+- Week 7 `02.yolo_nms.md` NMS 섹션 대폭 보강 — IoU 수식, 6단계 알고리즘, 텐서 수준 처리(set zero→sort→NMS), bbox_max/bbox_cur intuition 3단계, 플로우차트, 최종 결과, 슬라이드 8장 추가(54~61)
+
 ### 2026-05-10 (4)
 
 - Week 7 `01.object_detection_rcnn.md` 전면 재작성 — R-CNN/Fast R-CNN/Faster R-CNN 전체를 초보자 친화적 상세 설명으로 보강 (Why 설명, 수식 기호별 해설, 직관적 비유, 단계별 파이프라인 다이어그램, 핵심 용어 정리 테이블)
